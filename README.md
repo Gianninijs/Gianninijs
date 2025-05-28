@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Olá, meu nome é Giannini Jefferson da Silva
 ### Seja bem vindo(a) ao meu repositório do GitHub!
 
-Sou Estudante de Cientista e Analista de Dados, atualmente atuando como Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
+Sou Estudante de Ciencias e Analises de Dados, atualmente atuando como Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/giannini-da-silva-56bb9a16b//)
 [![Outlook](https://img.shields.io/badge/Outlook-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](giannini_js@hotmail.com)
