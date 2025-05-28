@@ -62,3 +62,11 @@ Objetivo:
 Entender melhor o perfil dos clientes com base em sua localização ( Santa Catarina ), preferências de pagamento e comportamento de compra, além de garantir uma gestão eficiente da logística e dos produtos de maior valor
 
 Implementado via SQL. (Conclusão: 10/2024)
+
+
+### [DashBoard Ifood - Visualização e Insights](https://www.linkedin.com/feed/update/urn:li:ugcPost:7325327006080897024/)
+
+Objetivo:
+O desafio é entender os dados, encontrar oportunidades de negócio, insights e propor qualquer ação baseada nos dados, para otimizar os resultados das campanhas e gerar valor para a empresa
+
+Implementado via dashboard com Google Sheets e Looker. (Conclusão: 05/202)
