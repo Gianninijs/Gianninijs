@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 Sou Estudante de Ciencias e Analises de Dados, atualmente atuando como Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
 
+O link do meu Portfólio de Projetos está abaixo do botão 'Portfólio'!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/giannini-da-silva-56bb9a16b//)
 [![Outlook](https://img.shields.io/badge/Outlook-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](giannini_js@hotmail.com)
+[![Meu Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/gianninijs)
 
 <!--estatísticas -->
 <a href="https://github.com/Gianninijs/github-readme-stats">  
