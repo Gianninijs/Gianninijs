@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 ## Olá, meu nome é Giannini Jefferson da Silva
 ### Seja bem vindo(a) ao meu repositório do GitHub!
 
-Sou Estudante de Ciencias e Analises de Dados, atualmente atuando como Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
+Sou Estudante de Ciencia de Dados na Universidade Maurício de Nassau, e atualmente atuando como Analista de Dados Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
 
-O link do meu Portfólio de Projetos está abaixo do botão 'Portfólio'!
+O link do meu Portfólio de Projetos está abaixo do botão 'Portfólio de Dados'!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/giannini-da-silva-56bb9a16b//)
-[![Outlook](https://img.shields.io/badge/Outlook-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](giannini_js@hotmail.com)
-[![Meu Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/gianninijs)
+[![LinkedIn](https://img.shields.io/badge/linkedin-perfil-blue)](https://https://www.linkedin.com/in/giannini-da-silva-56bb9a16b//)
+[![Outlook](https://img.shields.io/badge/e_mail-Outlook-blue)](giannini_js@hotmail.com)
+[![Meu Portfólio](https://img.shields.io/badge/portfolio-dados-blue)](https://sites.google.com/view/gianninijs)
+
 
 <!--estatísticas -->
 <a href="https://github.com/Gianninijs/github-readme-stats">  
@@ -54,7 +55,7 @@ O link do meu Portfólio de Projetos está abaixo do botão 'Portfólio'!
 ### [Insights para Análise do Cury Company](https://github.com/Gianninijs/dashboard_cury_company)
 
 Objetivo:
-Avaliar o crescimento do negócio,observando três visões: restaurantes, entregadores e paises, gerando insights, e respondendo questões de negócio.
+Avaliar o crescimento do negócio, observando três visões: restaurantes, entregadores e paises, gerando insights, e respondendo questões de negócio.
 
 Implementado via dashboard com Streamlit e Python. (Conclusão: 09/2024)
 
@@ -72,4 +73,31 @@ Implementado via SQL. (Conclusão: 10/2024)
 Objetivo:
 O desafio é entender os dados, encontrar oportunidades de negócio, insights e propor qualquer ação baseada nos dados, para otimizar os resultados das campanhas e gerar valor para a empresa
 
-Implementado via dashboard com Google Sheets e Looker. (Conclusão: 05/202)
+Implementado via dashboard com Google Sheets e Looker. (Conclusão: 05/2024)
+
+
+### [Case Olist Análise Descritiva dos Dados parte 1 de 4](https://medium.com/@giannini_js/an%C3%A1lise-dos-pedidos-hist%C3%B3ricos-de-um-e-commerce-com-an%C3%A1lise-descritiva-dos-dados-no-google-sheets-2f35fd477d3e)
+
+Objetivo:
+Desenvolvi uma análise descritiva é mostrar a saúde da empresa durante os anos de 2017 à 2018, onde busquei resposta nos dados para as perguntas como:
+
+- Como foi as vendas ao longo do tempo?
+
+- Qual é o comportamento histórico?
+
+- Existe sazonalidade?
+
+- Quais produtos venderam mais e quais não?
+
+Implementado via Google Sheets.
+Artigo no Medium. (Conclusão: 04/2025)
+
+### [Case Olist Análise Diagnóstica dos Dados parte 1 de 2](https://medium.com/@giannini_js/an%C3%A1lise-diagn%C3%B3stica-de-um-e-commerce-com-google-sheets-parte-2-de-4-cca96e85c047)
+
+Objetivo:
+Nesta segunda análise, busquei entender os fatores por trás do mau desempenho de vendas no segundo ano. Para isso, utilizei visualizações gráficas que facilitaram a compreensão do comportamento das vendas ao longo do tempo.
+
+Além disso, apliquei a **Correlação de Pearson** para identificar quais variáveis têm maior influência sobre o volume de pedidos. 
+
+Implementado via Google Sheets.
+Artigo no Medium. (Conclusão: 05/2025)
