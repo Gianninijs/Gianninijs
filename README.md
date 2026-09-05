@@ -13,41 +13,46 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, meu nome é Giannini Jefferson da Silva
+## Olá, sou Giannini Jefferson da Silva
 ### Seja bem vindo(a) ao meu repositório do GitHub!
 
-Sou Estudante de Ciencia de Dados na Universidade Maurício de Nassau, e atualmente atuando como Analista de Dados Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
+**Analista de Dados** · Power BI · SQL · Python · ETL · Looker · IA
 
-O link do meu Portfólio de Projetos está abaixo do botão 'Portfólio de Dados'!
+Sou Estudante de Ciencia de Dados na Universidade Maurício de Nassau, e atualmente atuando como Analista de Dados Freelancer na RE:LIBRE app.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-perfil-blue)](https://https://www.linkedin.com/in/giannini-da-silva-56bb9a16b//)
-[![Outlook](https://img.shields.io/badge/e_mail-Outlook-blue)](giannini_js@hotmail.com)
-[![Meu Portfólio](https://img.shields.io/badge/portfolio-dados-blue)](https://sites.google.com/view/gianninijs)
+### Meu papel na RE:LIBRE
 
+- Atuação como Analista de Dados no projeto do aplicativo Re:Libre.
 
-<!--estatísticas -->
-<a href="https://github.com/Gianninijs/github-readme-stats">  
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Gianninijs&show_icons=true&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&ring_color=6BFBCE" />
-</a>
+- Elaboração e distribuição de formulários estratégicos para pesquisa e mapeamento do público-alvo.
 
-<!--linguagens mais usadas -->
-<a href="https://github.com/Gianninijs">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gianninijs&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&ring_color=6BFBCE&layout=compact&langs_count=8&card_width=250" />
-</a>
+- Desenvolvimento de dashboards no ecossistema Google para análise competitiva de aplicativos do mesmo segmento.
 
-## Tecnologias que uso no meu dia:
+- Coleta, integração e tratamento de dados de múltiplas fontes para responder a perguntas de negócio, com foco em métricas de saúde.
+
+  ---
+
+### Portfólio de Projetos
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Perfil-blue)](https://https://www.linkedin.com/in/giannini-da-silva-56bb9a16b//)
+[![Meu Portfólio](https://img.shields.io/badge/Portfolio-Dados-blue)](https://sites.google.com/view/gianninijs)
+[![Medium](https://img.shields.io/badge/Medium-Artigos-blue)](https:/[/https://www.linkedin.com/in/giannini-da-silva-56bb9a16b/](https://medium.com/@giannini_js))
+
+---
+
+### Stack:
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Jupyter-555555?style=for-the-badge&logo=Jupyter&logoColor=orange"/>
   <img align="center" src="https://img.shields.io/badge/Python-3e7db0?style=for-the-badge&logo=python&logoColor=ffd846"/>
   <img align="center" src="https://img.shields.io/badge/Pandas-120751?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit&logoColor=ff4b4b"/>
-  <img align="center" src="https://img.shields.io/badge/Power BI-ffd846?style=for-the-badge&logo=power bi&logoColor=eab71d"/>
+  <img align="center" src="https://img.shields.io/badge/Power BI-ffd846?style=for-the-badge&logo=powerbi&logoColor=eab71d"/>
   <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
 </div>
 
-
+---
 
           
 ## Projetos de Visualização e Insights
