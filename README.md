@@ -34,9 +34,10 @@ Sou Estudante de Ciencia de Dados na Universidade Maurício de Nassau, e atualme
 
 ### Portfólio de Projetos
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-Perfil-blue)](https://https://www.linkedin.com/in/giannini-da-silva-56bb9a16b//)
+<!--[![LinkedIn](https://img.shields.io/badge/Linkedin-Perfil-blue)](https://linkedin.com/in/giannini-da-silva-56bb9a16b/) -->
 [![Meu Portfólio](https://img.shields.io/badge/Portfolio-Dados-blue)](https://sites.google.com/view/gianninijs)
-[![Medium](https://img.shields.io/badge/Medium-Artigos-blue)](https:/[/https://www.linkedin.com/in/giannini-da-silva-56bb9a16b/](https://medium.com/@giannini_js))
+[![Medium](https://img.shields.io/badge/Medium-Artigos-blue)](https://medium.com/@giannini_js)
+
 
 ---
 
