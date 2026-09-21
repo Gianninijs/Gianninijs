@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gianninijs&label=Profile%20views&color=0e75b6&style=flat" alt="gianninijs" /> </p>
 
 
 <!--
@@ -14,6 +15,15 @@ Here are some ideas to get you started:
 -->
 
 ## Olá, sou Giannini Jefferson da Silva
+
+<h3 align="left">Minhas redes:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/giannini-j-da-silva-56bb9a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giannini-j-da-silva-56bb9a16b/" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/annaskaroliny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annakmatias" height="30" width="40" /></a> -->
+<a href="https://medium.com/@giannini_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@giannini_js" height="30" width="40" /></a>
+</p>
+
+
 ### Seja bem vindo(a) ao meu repositório do GitHub!
 
 **Analista de Dados** · Power BI · SQL · Python · ETL · Looker · IA
